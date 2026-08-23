@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "platform": "devto",
+      "time": "2026-08-23T07:58:44.485169",
+      "draft": "sea-search-demand-2026.md",
+      "fp": "4ba64565b6d953dd",
+      "path": "/home/runner/work/App-data-IOS-GP-/App-data-IOS-GP-/content/articles/sea-search-demand-2026.md"
+    },
+    {
+      "platform": "devto",
+      "time": "2026-08-23T07:17:44.485169",
+      "draft": "stable-vs-spike-downloads.md",
+      "fp": "ab2aca4bc7d4720b",
+      "path": "/home/runner/work/App-data-IOS-GP-/App-data-IOS-GP-/content/articles/stable-vs-spike-downloads.md"
+    },
+    {
+      "platform": "devto",
+      "time": "2026-08-23T03:02:44.485169",
+      "draft": "what-is-app-market-data-api.md",
+      "fp": "01ce4e22428ea4c3",
+      "path": "/home/runner/work/App-data-IOS-GP-/App-data-IOS-GP-/content/articles/what-is-app-market-data-api.md"
+    }
+  ]
+}
